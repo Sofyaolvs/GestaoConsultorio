@@ -1,0 +1,4 @@
+2024-06-10T21:53:41.811367400: Entrada de dados: Cadastro realizado com sucesso.
+2024-06-10T21:53:41.826393900: Saída de dados: Consulta realizada.
+2024-06-10T22:10:56.286129100: Entrada de dados: Cadastro realizado com sucesso.
+2024-06-10T22:10:56.301682400: Saída de dados: Consulta realizada.
